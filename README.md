@@ -1,6 +1,6 @@
 # Ticari Otomasyon Projesi
 
-Bu proje, database first yaklaşımını konu alan bir ticari projedir. Proje içeriğinde çeşitli modüllerin yönetimini sağlayan temel CRUD (Create, Read, Update, Delete) işlemleri kullanılmıştır.
+Bu proje, Database First yaklaşımını konu alan bir ticari projedir. Proje içeriğinde çeşitli modüllerin yönetimini sağlayan temel CRUD (Create, Read, Update, Delete) işlemleri kullanılmıştır.
 
 Projeye ait fotoğraflar:
 
