@@ -26,4 +26,4 @@ Diyağramı:
 **Backend**
 - **C#** : Backend Tarafında C# dili Kullanılmıştır.
 - **MSSQL** : Veri Tabanı olarak Microsoft Sql Server Kullanılmıştır.
-- Datatabase First Yaklaşımı
+- Database First Yaklaşımı
