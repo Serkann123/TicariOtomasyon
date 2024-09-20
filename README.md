@@ -18,12 +18,12 @@ Projeye ait fotoğraflar:
 
 ![Kasa](https://github.com/user-attachments/assets/26049b05-0cd3-4670-88a0-452efa839179)
 
-Diyagramı:
+Diyağramı:
 
 ![diyagramı](https://github.com/user-attachments/assets/e61d7a25-9625-4f38-860a-e0c2d6a21e12)
 
 ## Kullanılan Teknolojiler
 **Backend**
 - **C#** : Backend Tarafında C# dili Kullanılmıştır.
-- **MSSQL** : Veri Tabanı olarak Microsoft Sql Serve Kullanılmıştır.
+- **MSSQL** : Veri Tabanı olarak Microsoft Sql Server Kullanılmıştır.
 - Datatabase First Yaklaşımı
