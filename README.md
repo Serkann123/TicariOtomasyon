@@ -22,6 +22,13 @@ Diyağramı:
 
 ![diyagramı](https://github.com/user-attachments/assets/e61d7a25-9625-4f38-860a-e0c2d6a21e12)
 
+
+
+
+https://github.com/user-attachments/assets/d01ed89a-ce82-4f9d-ad71-3d315a00ad06
+
+
+
 ## Kullanılan Teknolojiler
 **Backend**
 - **C#** : Backend Tarafında C# dili Kullanılmıştır.
