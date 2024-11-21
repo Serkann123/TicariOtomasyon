@@ -11,7 +11,7 @@ namespace ticari_otomasyon
     {
         public SqlConnection bgl()
         {
-            SqlConnection con = new SqlConnection("Data Source=DESKTOP-638ML11;Initial Catalog=TicariOtomasyon;Integrated Security=True");
+            SqlConnection con = new SqlConnection("Data Source=DESKTOP-3U064FC;Initial Catalog=TicariOtomasyon;Integrated Security=True");
             con.Open();
             return con;
 
